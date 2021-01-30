@@ -1,4 +1,4 @@
-#Employee Dues
+# Employee Dues
 Create an Employee class that represents several types of employees within a company.
 
 Have the program prompt the user to enter the type of employee (from a list of employee types). The program should also prompt the user to enter the number of meals being purchased.
