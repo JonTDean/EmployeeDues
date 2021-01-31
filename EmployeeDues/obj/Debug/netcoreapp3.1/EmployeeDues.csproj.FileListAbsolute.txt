@@ -1,0 +1,13 @@
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\bin\Debug\netcoreapp3.1\EmployeeDues.exe
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\bin\Debug\netcoreapp3.1\EmployeeDues.deps.json
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\bin\Debug\netcoreapp3.1\EmployeeDues.runtimeconfig.json
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\bin\Debug\netcoreapp3.1\EmployeeDues.runtimeconfig.dev.json
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\bin\Debug\netcoreapp3.1\EmployeeDues.dll
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\bin\Debug\netcoreapp3.1\EmployeeDues.pdb
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.AssemblyInfo.cs
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.dll
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.pdb
+C:\Users\Jon\source\repos\EmployeeDues\EmployeeDues\obj\Debug\netcoreapp3.1\EmployeeDues.genruntimeconfig.cache
